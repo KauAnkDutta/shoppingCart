@@ -1,0 +1,16 @@
+.profile{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.text{
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+    font-size: 25px;
+    letter-spacing: 3px;
+    color: rgb(139, 134, 134);
+}
